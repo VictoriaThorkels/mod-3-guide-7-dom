@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gif-encoder-2": "^1.0.5",
+    "install": "^0.13.0",
+    "node-pre-gyp": "^0.17.0",
+    "npm": "^8.19.2",
+    "sudo": "^1.0.3"
+  }
+}
